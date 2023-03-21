@@ -1,0 +1,19 @@
+#div1 {
+    background-color: green;
+    border-style: double;
+}
+
+#div2 {
+    background-color: rgb(217, 194, 48);
+    float: right;
+}
+
+#div3 {
+    background-color: red;
+    float: left;
+}
+
+input {
+    margin-left: 30%;
+    margin-right: 5%;
+}
